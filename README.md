@@ -68,3 +68,7 @@ Data cleaning · method chaining in pandas · `groupby` / `agg` · time-series r
 ---
 
 👤 **Tony Mulunda** — [GitHub @Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+A portfolio data-analysis project that turns Airbnb listing data into actionable insights about pricing, neighbourhood performance, guest capacity and market trends. It demonstrates practical Python, pandas, time-series analysis and data visualisation skills while connecting analytical findings to real-world marketplace decisions.
