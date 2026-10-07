@@ -16,6 +16,17 @@ The notebook filters a global Airbnb listings dataset down to **Paris**, keeps t
 2. How does price change with the number of guests a listing accommodates?
 3. How have the number of new hosts and the average price changed year over year?
 
+## 📈 Charts
+
+Charts produced by the notebook.
+
+<p align="center"><img src="docs/images/price_by_neighbourhood.png" alt="Average listing price by Paris neighbourhood" width="70%"></p>
+
+<p align="center">
+  <img src="docs/images/new_hosts_by_year.png" alt="New Airbnb hosts in Paris by year" width="48%">
+  <img src="docs/images/price_by_year.png" alt="Average Airbnb price in Paris by year" width="48%">
+</p>
+
 ## 🔍 Analysis Steps
 
 | Step | What was done |
