@@ -45,6 +45,12 @@ Charts produced by the notebook.
 - **Rapid growth, then a slowdown** — new Paris hosts grew from 4 in 2008 to over 4,500 in 2012.
 - **2015 regulations** — the final chart shows new host sign-ups falling after the 2015 rules came in, while average prices rose.
 
+## 📊 Tableau & Power BI
+
+[`bi/`](bi/) has a step-by-step guide for turning this analysis into a **Power BI or Tableau** dashboard once the dataset is added: data prep, measures for both tools, a page layout, a branded theme, and the notebook's numbers to check against.
+
+**[Open the build guide →](bi/README.md)**
+
 ## 📁 Repository Contents
 
 ```
